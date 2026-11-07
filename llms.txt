@@ -15,5 +15,5 @@ Keywords: assistant,ai,agent,tools,mcp,sdk,side-panel,approvals,eu,model-port.
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-assistant
+- README: https://github.com/itsryanarmani/agentic-assistant
 - License: MIT

@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/agentic-assistant)](https://www.npmjs.com/package/agentic-assistant)
 [![MIT license](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/mit)
 
-[Package](https://www.npmjs.com/package/agentic-assistant) · [Source](https://github.com/pooriaarab/agentic-assistant) · [Support](https://github.com/pooriaarab/agentic-assistant/issues)
+[Package](https://www.npmjs.com/package/agentic-assistant) · [Source](https://github.com/itsryanarmani/agentic-assistant) · [Support](https://github.com/itsryanarmani/agentic-assistant/issues)
 
 An AI assistant that acts inside your apps with the user's own permissions.
 
@@ -22,7 +22,7 @@ You need Node.js 22 or newer. The React panel needs `react` 18 or newer.
 To build from source:
 
 ```sh
-git clone https://github.com/pooriaarab/agentic-assistant && cd agentic-assistant
+git clone https://github.com/itsryanarmani/agentic-assistant && cd agentic-assistant
 npm ci && npm run build
 ```
 
